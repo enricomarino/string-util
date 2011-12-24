@@ -4,7 +4,7 @@ JavaScript string utilities library
 
 ## installation
 
-    $ npm install string
+    $ npm install string-util
 
 ## License
 
