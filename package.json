@@ -3,10 +3,10 @@
   "name": "string-util",
   "description": "JavaScript string utilities library",
   "version": "0.2.0",
-  "homepage": "https://github.com/onirame/string",
+  "homepage": "https://github.com/onirame/string-util",
   "repository": {
     "type": "git",
-    "url": "git://github.com/onirame/string.git"
+    "url": "git://github.com/onirame/string-util.git"
   },
   "main": "index.js",
   "engines": {
